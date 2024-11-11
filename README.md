@@ -1,7 +1,7 @@
 # Sport-car-Dashboard
 Here's a detailed tutorial on how to implement a project that retrieves, processes, and visualizes real-time vehicle data using the CAN protocol, Nextion, Arduino, Altium Design, and OBD-II.
 
-Step 1: Data Retrieval
+-Step 1: Data Retrieval
 Objective: Acquire real-time key information from a vehicle (speed, engine RPM, coolant temperature) via the CAN protocol.
 
 Materials Needed:
@@ -66,7 +66,7 @@ Upload the Code:
 
 Upload the code to the Arduino board and open the Serial Monitor to see the real-time data being retrieved from the vehicle.
 
-Step 2: Data Processing
+-Step 2: Data Processing
 Objective: Process the received data to make it usable.
 
 Steps:
@@ -82,7 +82,7 @@ Filter the Data:
 
 Implement filtering algorithms to smooth out the data and remove any noise.
 
-Step 3: Visualization
+-Step 3: Visualization
 Objective: Display the data clearly and intuitively on a graphical interface.
 
 Materials Needed:

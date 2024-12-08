@@ -4,7 +4,8 @@ Here's a detailed tutorial on how to implement a project that retrieves, process
 
 How to start?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
--Step 1: Data Retrieval
+Step 1: Data Retrieval
+-
 Objective: Acquire real-time key information from a vehicle (speed, engine RPM, coolant temperature) via the CAN protocol.
 
 Materials Needed:
@@ -70,6 +71,7 @@ Upload the Code:
 Upload the code to the Arduino board and open the Serial Monitor to see the real-time data being retrieved from the vehicle.
 
 -Step 2: Data Processing
+-
 Objective: Process the received data to make it usable.
 
 Steps:
@@ -86,6 +88,7 @@ Filter the Data:
 Implement filtering algorithms to smooth out the data and remove any noise.
 
 -Step 3: Visualization
+-
 Objective: Display the data clearly and intuitively on a graphical interface.
 
 Materials Needed:
@@ -95,15 +98,15 @@ Arduino board
 
 Steps:
 Set Up the Hardware:
-
+-
 Connect the Nextion display to the Arduino board using the appropriate pins (e.g., TX, RX, VCC, GND).
 
 Design the Interface:
-
+-
 Use the Nextion Editor to design the graphical interface. Create elements such as gauges, text fields, and buttons to display the data.
 
 Write the Arduino Code:
-
+-
 Modify the Arduino code to send the processed data to the Nextion display. Here's an example:
 
 cpp
@@ -130,7 +133,7 @@ void loop() {
 }
 
 Upload the Code:
-
+-
 Upload the code to the Arduino board and observe the data being displayed on the Nextion screen.
 
 Technologies Used
@@ -147,6 +150,6 @@ OBD-II: On-Board Diagnostics standard for vehicle data retrieval.
 By following these steps, you can successfully implement a project that retrieves, processes, and visualizes real-time vehicle data using the CAN protocol and various technologies.
 
 for further questions mail me on:dagmazen@gmail.com
-
+-
 Licence()
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------

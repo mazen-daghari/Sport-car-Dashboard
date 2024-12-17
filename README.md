@@ -104,10 +104,10 @@ Connect the Nextion display to the Arduino board using the appropriate pins (e.g
 Design the Interface:
 -
 Use the Nextion Editor to design the graphical interface. Create elements such as gauges, text fields, and buttons to display the data.
+### image
+![image](/Capture 1.png)
 
-![image](Capture 1.png)
-
-(Capture 5.png)
+(/Capture 5.png)
 
 Write the Arduino Code:
 -

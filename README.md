@@ -105,7 +105,7 @@ Design the Interface:
 -
 Use the Nextion Editor to design the graphical interface. Create elements such as gauges, text fields, and buttons to display the data.
 
-(Capture 1.png)
+![image](Capture 1.png)
 
 (Capture 5.png)
 

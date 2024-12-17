@@ -105,9 +105,9 @@ Design the Interface:
 -
 Use the Nextion Editor to design the graphical interface. Create elements such as gauges, text fields, and buttons to display the data.
 ### image
-![image](/Capture 1.png)
+![image](/Capture1.png)
 
-(/Capture 5.png)
+(/Capture5.png)
 
 Write the Arduino Code:
 -
